@@ -1,0 +1,5 @@
+target/
+*.db
+exports/
+*.rs.bk
+*.zip
